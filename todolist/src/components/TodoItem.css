@@ -1,0 +1,21 @@
+.item-container{
+  width: 85%;
+  height: 50px;
+  border: 1px solid black;
+  padding: 0px 20px;
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.todo-text{
+  width: 95%;
+  height: 100%;
+  display: inline-block;
+  line-height: 50px; 
+}
+
+.img-delete{
+  width: 5%;
+  vertical-align: middle;
+}
